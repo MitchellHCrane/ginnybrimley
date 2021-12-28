@@ -4,6 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Set Up for production run:
 'npm run build'
-# erickshank
-# erickshank
 # ginnybrimley
