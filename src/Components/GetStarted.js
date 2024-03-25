@@ -16,7 +16,7 @@ function GetStarted() {
           title="Loan Application"
           description="Create your account to apply with
           First Class Home Mortgage."
-          url="https://www.blink.mortgage/app/signup/p/FirstClassHomeMortgage/ginnybrimley"
+          url="https://firstclasshomemortgage.my1003app.com/261107/register"
           iconName="applicationIcon"
           btnText="Start Application"
         />
